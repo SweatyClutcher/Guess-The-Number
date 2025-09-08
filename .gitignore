@@ -1,0 +1,14 @@
+# Mac system files
+.DS_Store
+
+# IDE and editor configuration files
+.vscode/
+.idea/
+
+# Dependency directories
+# Standard for any JavaScript project
+node_modules/
+
+# Log files
+*.log
+npm-debug.log*
